@@ -15,3 +15,6 @@ Technologies Used
 Source Code Available at : https://github.com/hanzlasheikh/SmartChat
 Suggestions are welcomed
 #android
+
+
+## 2020 first commit 
